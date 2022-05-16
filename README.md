@@ -1,5 +1,7 @@
 ![Kei's GitHub Banner](./github-header-image.png)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kei95&show_icons=true&theme=merko)
+
 <!--
 **kei95/kei95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
