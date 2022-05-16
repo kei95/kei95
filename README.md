@@ -1,4 +1,4 @@
-### Hi there 👋
+![Kei's GitHub Banner](./github-header-image.png)
 
 <!--
 **kei95/kei95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
