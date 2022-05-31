@@ -38,9 +38,10 @@ By the way, my name "Kei" pronunce the same as the letter "K". Easy to pick up, 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![React-Native](https://img.shields.io/badge/-React_Native-%23282C34?style=flat-square&labelColor=white&logo=react)
-![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&color=292C36)
-![Remix](https://img.shields.io/badge/-nodejs-%23F7DF1C?style=flat-square&logo=node.js&labelColor=white&color=green)
+![React-Native](https://img.shields.io/badge/-React_Native-%23282C34?style=flat-square&labelColor=23282C34&logo=react&color=white)
+![Node.js](https://img.shields.io/badge/-nodejs-%23F7DF1C?style=flat-square&logo=node.js&labelColor=white&color=green)
+![Remix](https://img.shields.io/badge/-Remix-%23F7DF1C?style=flat-square&logo=remix&color=292C36)
+![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&labelColor=blue&color=white)
 
 <!--
 **kei95/kei95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
