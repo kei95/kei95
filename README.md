@@ -1,8 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/NmmUoxTjpj0CDGm1Qj/giphy.gif" width="260"/>
-</div>
-
-<div id="badges" align="center">
+<h1 align="center">
+  Hi there it's Kei!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/keisuke-yamashita-075164178">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue&color=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,10 +9,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<h1 align="center">
-  Hi there it's Kei!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h1>
 
 I am a developer who believes that every single line of code we write makes the world a better place to live! I genuinely enjoy working on exciting projects that give me opportunities of learning and make people's lives better through my(our) creation! There're not so many jobs that your creation directly impacts consumers' lives, I found that it's amazing! If you enjoy making creative solutions, feel free to reach me out👍
