@@ -6,7 +6,7 @@
 I am a developer who believes that every single line of code we write makes the world a better place to live! I genuinely enjoy working on exciting projects that give me opportunities of learning and make people's lives better through my(our) creation! There're not so many jobs that your creation directly impacts consumers' lives, I found that it's amazing! If you enjoy making creative solutions, feel free to reach me out👍
 By the way, my name "Kei" pronunce the same as the letter "K". Easy to pick up, eh?
 
-### Me in a nutshell🥜:
+### 🥜 Me in a nutshell:
 <ul>
   <li>🏡: Based in Vancouver, Canada</li>
   <li>📖: Love reading and coding in my spare time</li>
@@ -15,10 +15,12 @@ By the way, my name "Kei" pronunce the same as the letter "K". Easy to pick up, 
   <li>🤠: Coding boy scout(You know what I mean)</li>
 </ul>
 
+### 📖 Books I loved
+- Effective TypeScript: https://effectivetypescript.com
+- The Effective Engineer: http://www.effectiveengineer.com
+- Philosophy of Software Design: https://www.amazon.ca/Philosophy-Software-Design-John-Ousterhout/dp/1732102201
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kei95&show_icons=true&theme=merko)
-
-## Currently giving my love to:
+## ❤️ Currently giving my love to:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -30,7 +32,7 @@ By the way, my name "Kei" pronunce the same as the letter "K". Easy to pick up, 
 ![Remix](https://img.shields.io/badge/-Remix-%23F7DF1C?style=flat-square&logo=remix&color=292C36)
 ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&labelColor=blue&color=white)
 
-## Links
+## 🖇 Links
   <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/keisuke-yamashita-075164178">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue&color=white" alt="LinkedIn Badge"/>
@@ -39,6 +41,11 @@ By the way, my name "Kei" pronunce the same as the letter "K". Easy to pick up, 
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kei95&show_icons=true&theme=merko)
+
 
 <!--
 **kei95/kei95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
