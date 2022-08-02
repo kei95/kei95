@@ -21,16 +21,39 @@ By the way, my name "Kei" pronunce the same as the letter "K". Easy to pick up, 
 - [Philosophy of Software Design](https://www.amazon.ca/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 
 ## ❤️ Currently giving my love to:
+<div id="badges" align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML badge" />
+  </a>
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![React-Native](https://img.shields.io/badge/-React_Native-%23282C34?style=flat-square&labelColor=23282C34&logo=react&color=white)
-![Node.js](https://img.shields.io/badge/-nodejs-%23F7DF1C?style=flat-square&logo=node.js&labelColor=white&color=green)
-![Remix](https://img.shields.io/badge/-Remix-%23F7DF1C?style=flat-square&logo=remix&color=292C36)
-![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&labelColor=blue&color=white)
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" alt="CSS badge" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C"  alt="JavaScript badge" />
+  </a>
+  
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript badge" />
+  </a>
+  
+  <a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" alt="React badge" />
+  </a>
+  
+  <a href="https://reactnative.dev" target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/-React_Native-%23282C34?style=flat-square&labelColor=23282C34&logo=react&color=white"  alt="React Native badge"/>
+  </a>
+  
+  <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/-nodejs-%23F7DF1C?style=flat-square&logo=node.js&labelColor=white&color=green"  alt="Node.js badge" />
+  </a>
+  
+  <a href="https://remix.run" target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/-Remix-%23F7DF1C?style=flat-square&logo=remix&color=292C36"  alt="Remix badge" />
+  </a>
+</div>
 
 ## 🖇 Links
   <div id="badges" align="left">
