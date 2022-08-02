@@ -16,9 +16,9 @@ By the way, my name "Kei" pronunce the same as the letter "K". Easy to pick up, 
 </ul>
 
 ### 📖 Books I loved
-- Effective TypeScript: https://effectivetypescript.com
-- The Effective Engineer: http://www.effectiveengineer.com
-- Philosophy of Software Design: https://www.amazon.ca/Philosophy-Software-Design-John-Ousterhout/dp/1732102201
+- [Effective TypeScript](https://effectivetypescript.com)
+- [The Effective Engineer](http://www.effectiveengineer.com)
+- [Philosophy of Software Design](https://www.amazon.ca/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 
 ## ❤️ Currently giving my love to:
 
