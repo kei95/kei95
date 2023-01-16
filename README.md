@@ -3,8 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h1>
 
-I am a developer who believes that every single line of code we write makes the world a better place to live! I genuinely enjoy working on exciting projects that give me opportunities of learning and make people's lives better through my(our) creation! There're not so many jobs that your creation directly impacts consumers' lives, I found that it's amazing! If you enjoy making creative solutions, feel free to reach me out👍
-By the way, my name "Kei" pronunce the same as the letter "K". Easy to pick up, eh?
+Hey there! My name is Kei and I am a developer who is passionate about using technology to make the world a better place. I believe that every line of code we write has the potential to make a positive impact on people's lives. I am always looking for new and exciting projects that allow me to learn and grow as a developer, and I find it truly amazing that my work can directly impact people's lives. Plus, my name is easy to remember - just think of the letter "K"! If you're someone who shares my passion for creating creative solutions and making a difference, let's connect!
 
 ### 🥜 Me in a nutshell:
 <ul>
