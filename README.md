@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h1>
 
-Hey there! My name is Kei and I am a developer who is passionate about using technology to make the world a better place. I believe that every line of code we write has the potential to make a positive impact on people's lives. I am always looking for new and exciting projects that allow me to learn and grow as a developer, and I find it truly amazing that my work can directly impact people's lives. Plus, my name is easy to remember - just think of the letter "K"! If you're someone who shares my passion for creating creative solutions and making a difference, let's connect!
+Hey there! My name is Kei (Pronounced the letter K) a developer passionate about making the world a better place using technology. I believe that every line of code we write has the potential to make a positive impact on people's lives. I am always looking for new and exciting projects that allow me to learn and grow as a developer, and I find it truly amazing that my work can directly impact people's lives. If you're someone who shares my passion for creating creative solutions and making a difference, let's connect!
 
 ### 🥜 Me in a nutshell:
 <ul>
