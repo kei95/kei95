@@ -7,11 +7,10 @@ Hey there! My name is Kei (Pronounced the letter K) a developer passionate about
 
 ### 🥜 Me in a nutshell:
 <ul>
-  <li>🏡: Based in Vancouver, Canada</li>
   <li>📖: Love reading and coding in my spare time</li>
   <li>💻: Coding enthusiast</li>
   <li>🧪: Test believer</li>
-  <li>🤠: Coding boy scout(You know what I mean)</li>
+  <li>🤠: Coding boy scout</li>
 </ul>
 
 ### 📖 Books I loved
